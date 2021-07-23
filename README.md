@@ -9,36 +9,36 @@ Write a function `solution(map)` that generates the length of the shortest path 
 
 ## Some examples:
 Map:
-'''
+```
 000000
 111110
 000000
 011111
 011111
 000000
-'''
+```
 
 Answer: 11
 
 Map:
-'''
+```
 000000
 111110
 100000
 011111
 011111
 000000
-'''
+```
 
 Answer: 21
 
 Map:
-'''
+```
 010
 001
 100
 110
-'''
+
 
 Answer: 6
 
