@@ -1,5 +1,5 @@
 # dijkstra-with-a-shortcut
-A modified version of Dijkstra's algorithm in which we're allowed to take down a wall. I solved this problem as part of the Google foobar challenge and thought my solution was worth sharing.
+A modified version of Dijkstra's algorithm in which we're allowed to take a shortcut (take down a wall). I solved this problem as part of the Google foobar challenge and thought my solution was worth sharing.
 
 ## Problem description
 
